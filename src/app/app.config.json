@@ -1,0 +1,14 @@
+{
+	"appname": "Test",
+	"scope": "BuyerAdmin DevCenterMessageConfigAdmin DevCenterWebHookAdmin",
+	"clientid": "48BCE4F3-0630-4247-BC4B-EE5AA009CD21",
+	"buyerid": null,
+	"environment": "qa",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
